@@ -1,0 +1,3 @@
+
+
+BazaZaTestiranje.sql -> MySQL  (radi sa phpmyadmin-om), koristiti ovaj fajl za kreiranje baze :)
